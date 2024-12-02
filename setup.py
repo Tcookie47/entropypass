@@ -4,7 +4,7 @@ long_description = (Path(__file__).parent / "README.md").read_text()
 
 setup(
     name="entropypass",
-    version="0.1",
+    version="1.0.0",
     description="A Python-based tool to generate high-entropy passwords using Leet substitutions and entropy optimization.",
     author="Anantha Krishna Anumanchipalli",
     author_email="anumanchipalli.a@northeastern.edu",
